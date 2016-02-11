@@ -1,0 +1,23 @@
+_repo: Breaking-the-Outer-Ring-Marine-Landings-in-the-Marshall-Islands_48898
+creator:
+  author:
+    agent_name: Chapin, John C.
+    gutenberg_agent_id: '44977'
+    url: http://www.gutenberg.org/2009/agents/44977
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2015-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Marines in World War II, Commemorative Series
+subjects:
+- !lcc 'D731'
+- !lcsh 'World War, 1939-1945 -- Campaigns -- Marshall Islands'
+- !lcsh 'United States. Marine Corps -- History -- World War, 1939-1945'
+title: 'Breaking the Outer Ring: Marine Landings in the Marshall Islands'
+url: http://www.gutenberg.org/ebooks/48898
